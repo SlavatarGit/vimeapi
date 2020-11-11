@@ -7,6 +7,6 @@ SDK for russian server
 
 
 # Links
-api.vimeworld.ru - Official api
+https://vimeworld.github.io/api-docs/ - Official api docs
 
-vimeworld.ru     - Official site
+https://vimeworld.ru                  - Official site
