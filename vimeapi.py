@@ -13,8 +13,6 @@ def check_data_on_error(data):
             logging.error(f"Request have error: {data['error']['error_code']} - {data['error']['error_msg']}")
             return False
     except:
-
-        logging.info("Request dont have errors")
         return True
 
 def check_token(token, type="AUTH"):
